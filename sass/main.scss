@@ -1,0 +1,23 @@
+@import "./utils/variables";
+@import "./utils/placeholders";
+@import "./utils/mixins";
+
+@import "./base/base";
+
+@import "./layout/header";
+@import "./layout/footer";
+
+@import "./components/logo";
+@import "./components/hero";
+@import "./components/priorities";
+@import "./components/working-process";
+@import "./components/team";
+@import "./components/client";
+
+@import "./components/filter";
+@import "./components/gallery";
+@import "./components/modal";
+
+
+
+
